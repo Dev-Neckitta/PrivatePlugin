@@ -1,0 +1,17 @@
+name: PrivatePlugins
+main: Private\Main
+api: 3.0.0
+version: 0.1
+author: Neckitta <\>
+
+commands:
+ pl:
+  description: "View main plugins"
+ ver:
+   description: "View server version or plugins version"
+ plugins:
+   description: "View main plugins"
+ about:
+   description: "View main plugin plugins or version plugins"
+ version:
+   description: "view server version or plugins version"
